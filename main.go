@@ -10,5 +10,6 @@ func main() {
 
 	jsonRes := lib.GetTradingViewResponse("crypto", "BINANCE", "BTCUSDT", "1h")
 	analysisData := lib.ParseJsonData(jsonRes)
-	fmt.Println("analysisData: ", analysisData.BBupper)
+	fmt.Println("BBupper: ", analysisData.BBupper)
+	fmt.Println("BBlower: ", analysisData.BBlower)
 }
