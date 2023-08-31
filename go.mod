@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/gocolly/colly v1.2.0
-	github.com/jerrychan807/okex v1.0.37
+	github.com/jerrychan807/okex v1.0.40
 	github.com/shopspring/decimal v1.3.1
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/viper v1.13.0
