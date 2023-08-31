@@ -1,0 +1,7 @@
+okx:
+  restUrl: "https://www.okx.com"
+dexsecret:
+  apiKey: "aaa"
+  secretKey: "aaa"
+  passphrase: "aaa"
+  env: "test" # 生产or测试环境 prod test
