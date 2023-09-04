@@ -12,4 +12,5 @@ func main() {
 	analysisData := lib.ParseJsonData(jsonRes)
 	fmt.Println("BBupper: ", analysisData.BBupper)
 	fmt.Println("BBlower: ", analysisData.BBlower)
+
 }
